@@ -14,17 +14,7 @@ Customize the Appearance of the Roblox PlayButton on the Website
 3. Enable "Developer mode" and click "Load unpacked".
 4. Select the folder containing the extension files.
 
-## Usage
-
-Once installed, the extension will automatically apply the new styles to the game buttons on the Roblox website.
-
-## Permissions
-
-- `activeTab`: Allows the extension to access the currently active tab to apply the styles.
-
-## Manifest
-
-The extension uses Manifest V3 and includes a content script that matches URLs on the Roblox website.
+# Preview
 
 ## License
 

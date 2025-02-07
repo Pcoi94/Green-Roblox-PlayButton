@@ -3,7 +3,9 @@ function injectStyles() {
 
     styleSheet.textContent = `
     .dark-theme .btn-common-play-game-lg,
-    .light-theme .btn-common-play-game-lg {
+    .dark-theme .btn-growth-xs,
+    .light-theme .btn-common-play-game-lg,
+    .light-theme .btn-growth-xs {
       background-color: #00b06f !important;
       box-shadow: 0 0 5px rgb(0, 94, 59) !important;
       transition: all 0.1s ease !important;
