@@ -14,8 +14,6 @@ Customize the Appearance of the Roblox PlayButton on the Website
 3. Enable "Developer mode" and click "Load unpacked".
 4. Select the folder containing the extension files.
 
-# Preview
-
 ## License
 
 This project is licensed under the MIT License.
