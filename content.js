@@ -9,7 +9,7 @@ function injectStyles() {
     .light-theme .btn-common-play-game-lg,
     .rbx-private-game-server-join,
     .friend-presence-info .btn-growth-sm.btn-full-width,
-  .profile-join-game .btn-growth-md, 
+    .btn-join-game .profile-join-game.btn-growth-md, 
     .game-server-join-btn {
       background-color: #00b06f !important;
       box-shadow: 0 0 5px rgb(0, 94, 59) !important;
@@ -21,8 +21,8 @@ function injectStyles() {
     .light-theme .btn-common-play-game-lg:focus,
     .friend-presence-info .btn-growth-sm.btn-full-width:hover, 
     .friend-presence-info .btn-growth-sm.btn-full-width:focus,
-    .profile-join-game .btn-growth-md:hover, 
-    .profile-join-game .btn-growth-md:focus, 
+    .btn-join-game .profile-join-game.btn-growth-md:hover, 
+    .btn-join-game .profile-join-game.btn-growth-md:focus, 
     .rbx-private-game-server-join:hover,
     .rbx-private-game-server-join:focus,
     .game-server-join-btn:hover,
